@@ -1,6 +1,6 @@
 {
-  "name": "lyrics-api",
-  "version": "1.0.0",
+  "name": "yta",
+  "version": "1.0.2",
   "description": "API to fetch song lyrics from Genius",
   "main": "index.js",
   "scripts": {
